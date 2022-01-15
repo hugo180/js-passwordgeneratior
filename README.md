@@ -14,3 +14,8 @@ THEN the password is either displayed in an alert or written to the page
 view live: https://hugo180.github.io/js-passwordgeneratior/ 
 
 
+<img width="1440" alt="Screen Shot 2022-01-14 at 11 28 35 PM" src="https://user-images.githubusercontent.com/28612070/149611826-1b37ed65-3acb-401e-b6a5-a7546a955fa2.png">
+<img width="1440" alt="Screen Shot 2022-01-14 at 11 28 44 PM" src="https://user-images.githubusercontent.com/28612070/149611828-5033da35-b5e1-420b-bdf2-b39728aa4a67.png">
+<img width="1440" alt="Screen Shot 2022-01-14 at 11 28 51 PM" src="https://user-images.githubusercontent.com/28612070/149611829-e93cbd3b-a197-4ca4-835e-ff2c894cf409.png">
+<img width="1440" alt="Screen Shot 2022-01-14 at 11 28 59 PM" src="https://user-images.githubusercontent.com/28612070/149611830-632d113a-357c-45bd-824b-e5efac1883fd.png">
+<img width="1440" alt="Screen Shot 2022-01-14 at 11 29 06 PM" src="https://user-images.githubusercontent.com/28612070/149611832-09329f7e-a155-451b-83cd-addf51f33d88.png">

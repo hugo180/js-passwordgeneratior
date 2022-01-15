@@ -19,3 +19,4 @@ view live: https://hugo180.github.io/js-passwordgeneratior/
 <img width="1440" alt="Screen Shot 2022-01-14 at 11 28 51 PM" src="https://user-images.githubusercontent.com/28612070/149611829-e93cbd3b-a197-4ca4-835e-ff2c894cf409.png">
 <img width="1440" alt="Screen Shot 2022-01-14 at 11 28 59 PM" src="https://user-images.githubusercontent.com/28612070/149611830-632d113a-357c-45bd-824b-e5efac1883fd.png">
 <img width="1440" alt="Screen Shot 2022-01-14 at 11 29 06 PM" src="https://user-images.githubusercontent.com/28612070/149611832-09329f7e-a155-451b-83cd-addf51f33d88.png">
+<img width="1440" alt="Screen Shot 2022-01-14 at 11 29 13 PM" src="https://user-images.githubusercontent.com/28612070/149611864-84462fda-f7c1-4205-aacf-0bb5f1bd4181.png">
